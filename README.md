@@ -8,4 +8,5 @@ Staff can create Bank Accounts for customers, change information, and display a 
 ## Customer Account
 Customers can make deposits, withdrawals, or see their transaction history.
 
+## About
 This project took a total of 7 hours to code and using an intermediate understanding of C++ Loops, Functions, If Else, Switch and Classes.
